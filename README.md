@@ -67,7 +67,7 @@ The dataset has three tables: **campaigns** (57 rows: category, type, cost, impr
 
 The interactive dashboard is on Tableau Public [here](TABLEAU_PUBLIC_LINK). It can be filtered by plan, state and campaign type, and covers marketing metrics, signup metrics and claim metrics.
 
-<image src = "images/Dashboard%201.png" width = "700")
+<image src = "images/Dashboard%201.png" width = "700">
 
 ## Presentation
 
