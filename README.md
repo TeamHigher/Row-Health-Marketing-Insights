@@ -68,10 +68,14 @@ The dataset has three tables: **campaigns** (57 rows: category, type, cost, impr
 
 The interactive dashboard is on Tableau Public [here](TABLEAU_PUBLIC_LINK). It can be filtered by plan, state and campaign type, and covers marketing metrics, signup metrics and claim metrics.
 
-![Tableau dashboard](images/Dashboard 1.png)
+![Tableau dashboard](images/Dashboard%201.png)
 
 ## Presentation
 
 The presentation for the marketing team walks through these insights and recommendations and can be found [here](https://docs.google.com/presentation/d/10-N7aHpdqt00mjYltsYp19-Qp7ofWi4V1xUJnqM-0cc/edit?usp=sharing).
 
-![Signup rate by campaign type](images/signup_rate_type.png)
+![Signup rate by campaign type](images/Health-for-all.png)
+![Signup rate by campaign type](images/Health-awareness.png)
+![Signup rate by campaign type](images/Row%20Health-google_slide.png)
+![Signup rate by campaign type](images/Technical%20process.png)
+
