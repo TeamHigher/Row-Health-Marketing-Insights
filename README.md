@@ -12,7 +12,7 @@ With a new data team in place, the company wants to understand which campaigns a
 
 The dataset has three tables: **campaigns** (57 rows: category, type, cost, impressions, clicks), **customers** (16,338 rows: plan, state, first touch, signup date and the campaign they signed up through) and **claims** (49,998 rows: claim category, amount and covered amount).
 
-![Dataset schema](images/dataset_schema.png)
+<image src = "images/dataset_schema.png" width ="900">
 
 ## Insights Summary
 
@@ -31,7 +31,6 @@ The dataset has three tables: **campaigns** (57 rows: category, type, cost, impr
 - By campaign type, **Health Awareness** converts best (0.41%) and **Offer Announcement** worst (0.01%, only 61 signups).
 - **#HealthyLiving** brought in the most signups (3,727) but converts at only 0.27%.
 
-![Signup rate by campaign category](images/Signup_rate_pivot.png)
 
 #### Click Through Rate
 
@@ -74,8 +73,8 @@ The interactive dashboard is on Tableau Public [here](TABLEAU_PUBLIC_LINK). It c
 
 The presentation for the marketing team walks through these insights and recommendations and can be found [here](https://docs.google.com/presentation/d/10-N7aHpdqt00mjYltsYp19-Qp7ofWi4V1xUJnqM-0cc/edit?usp=sharing).
 
-![Signup rate by campaign type](images/Health-for-all.png)
+![Signup rate by category](images/Health-for-all.png)
 ![Signup rate by campaign type](images/Health-awareness.png)
-![Signup rate by campaign type](images/Row%20Health-google_slide.png)
-![Signup rate by campaign type](images/Technical%20process.png)
+![Recommendation](images/Row%20Health-google_slide.png)
+![Technical process](images/Technical%20process.png)
 
