@@ -31,7 +31,7 @@ The dataset has three tables: **campaigns** (57 rows: category, type, cost, impr
 - By campaign type, **Health Awareness** converts best (0.41%) and **Offer Announcement** worst (0.01%, only 61 signups).
 - **#HealthyLiving** brought in the most signups (3,727) but converts at only 0.27%.
 
-![Signup rate by campaign category](images/signup_rate_category.png)
+![Signup rate by campaign category](images/Signup_rate_pivot.png)
 
 #### Click Through Rate
 
@@ -68,7 +68,7 @@ The dataset has three tables: **campaigns** (57 rows: category, type, cost, impr
 
 The interactive dashboard is on Tableau Public [here](TABLEAU_PUBLIC_LINK). It can be filtered by plan, state and campaign type, and covers marketing metrics, signup metrics and claim metrics.
 
-![Tableau dashboard](images/dashboard.png)
+![Tableau dashboard](images/Dashboard 1.png)
 
 ## Presentation
 
