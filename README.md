@@ -12,7 +12,7 @@ With a new data team in place, the company wants to understand which campaigns a
 
 The dataset has three tables: **campaigns** (57 rows: category, type, cost, impressions, clicks), **customers** (16,338 rows: plan, state, first touch, signup date and the campaign they signed up through) and **claims** (49,998 rows: claim category, amount and covered amount).
 
-<image src = "images/dataset_schema.png" width ="900">
+<image src = "images/dataset_schema.png" width ="600">
 
 ## Insights Summary
 
@@ -67,7 +67,7 @@ The dataset has three tables: **campaigns** (57 rows: category, type, cost, impr
 
 The interactive dashboard is on Tableau Public [here](TABLEAU_PUBLIC_LINK). It can be filtered by plan, state and campaign type, and covers marketing metrics, signup metrics and claim metrics.
 
-![Tableau dashboard](images/Dashboard%201.png)
+<image src = "images/Dashboard%201.png" width="700")
 
 ## Presentation
 
