@@ -68,6 +68,7 @@ The dataset has three tables: **campaigns** (57 rows: category, type, cost, impr
 The interactive dashboard is on Tableau Public [here](https://public.tableau.com/app/profile/chukuka.uwabuofu7868/viz/RowHealthProject_17953408688600/Dashboard1?publish=yes). It can be filtered by plan, state and campaign type, and covers marketing metrics, signup metrics and claim metrics.
 
 <img src = "images/Dashboard%201.png" width = "1000">
+
 The dashboard includes all 16,338 customers. Campaign-level figures in this README exclude 49 customers with no valid campaign_id.
 
 ## Presentation
